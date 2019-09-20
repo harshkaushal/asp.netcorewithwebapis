@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "title": "Creating Reusable React Components",
+    "watchHref": "http://harsh.com/courses/react-creating-reusable-components",
+    "authorId": "Harsh-house",
+    "length": "6:20",
+    "category": "JavaScript"
+  },
+  {
+    "id": "2",
+    "title": "Building Applications in React and Flux",
+    "watchHref": "http://www.harsh.com/courses/react-flux-building-applications",
+    "authorId": "harsh-house",
+    "length": "5:08",
+    "category": "JavaScript"
+  },
+  {
+    "id": "3",
+    "title": "Clean Code: Writing Code for Humans",
+    "watchHref": "http://www.harsh.com/courses/writing-clean-code-humans",
+    "authorId": "harsh-house",
+    "length": "3:10",
+    "category": "Software Practices"
+  },
+  {
+    "id": "4",
+    "title": "Architecting Applications for the Real World",
+    "watchHref": "http://www.harsh.com/courses/architecting-applications-dotnet",
+    "authorId": "harsh-house",
+    "length": "2:52",
+    "category": "Software Architecture"
+  },
+  {
+    "id": "5",
+    "title": "Becoming an Outlier: Reprogramming the Developer Mind",
+    "watchHref": "http://www.harsh.com/courses/career-reboot-for-developer-mind",
+    "authorId": "harsh-house",
+    "length": "2:30",
+    "category": "Career"
+  },
+  {
+    "id": "6",
+    "title": "Web Component Fundamentals",
+    "watchHref": "http://www.harsh.com/courses/web-components-shadow-dom",
+    "authorId": "harsh-house",
+    "length": "5:10",
+    "category": "HTML5"
+  }
+]
